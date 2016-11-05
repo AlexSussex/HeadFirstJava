@@ -1,0 +1,7 @@
+public abstract class Top{}
+
+public class Tip extends Top {}
+
+
+
+public
